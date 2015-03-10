@@ -1721,7 +1721,7 @@ background-image: linear-gradient(to bottom, #296AD4 0%, #04E7EF 100%, #FFFF77 1
   padding-bottom:0%;
   padding-left: 4%;
    padding-right: 4%;
-  background: #24C0EB;
+  background: #970B23;
   min-height: 320px;
 
 
@@ -1820,7 +1820,7 @@ img {
 
 }
 .blue h2 {
-  color: #24C0EB;
+  color: #970B23;
 
 }
 
@@ -1829,7 +1829,7 @@ img {
 
 }
 .black h2 {
-  color: #24C0EB;
+  color: #970B23;
   text-align: left;
   /*font-size: 2.5em;*/
   font-weight: bold;
@@ -1893,7 +1893,7 @@ img {
     text-align: center;
     text-decoration: none;
     text-transform: uppercase;
-    background-color: #24C0EB; 
+    background-color: #970B23; 
     margin: 3% 5% 1% 5%
     
     
@@ -1922,7 +1922,7 @@ img {
     text-decoration: none;
     text-transform: uppercase;
     background-color: #A6D044;
-    /*background-color: #24C0EB;*/ 
+    /*background-color: #970B23;*/ 
     margin: 3% 5% 1% 5;
     
     
@@ -2186,8 +2186,6 @@ margin: -10px auto 0 auto;
   /*padding: 5% 0 30% 0;*/
     background: url(../imgs/DSCF2107.jpg);
   background-size: cover;
-  
-
  }
 
  .bg-img {
@@ -2235,7 +2233,7 @@ margin: -10px auto 0 auto;
 
 .day-text h2{
   /*color: #222; */
-  color: #24C0EB;
+  color: #970B23;
   font-family: 'Open Sans'; 
   font-weight:700; 
 }
@@ -2244,4 +2242,14 @@ a:hover {
   color: #fff;
 
 
+}
+
+div .overlay{
+    position: relative;
+}
+
+div .color-overlay{
+    background-color: #970B23;
+    opacity: 0.8;
+    margin: 0 -20px 0 -20px;
 }
